@@ -6,4 +6,4 @@ Python scripts to process individual Blender output images into a vectorized hig
 3 stages:
 -Optimizes the Blender output for tracing using PIL
 -Traces using Potrace and Inkscape's model for grayscale
--Postprocessing back to non-destructive BN and joining of SVGs
+-Postprocesses back to non-destructive BN and joins SVGs
